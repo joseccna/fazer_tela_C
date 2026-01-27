@@ -67,9 +67,8 @@
             <StackLayout Grid.Row="3" HorizontalOptions="Center" >
                 <Label x:Name="Status" Text="Preencha os campos para concluir o cadastro"/>
             </StackLayout>
-            
-            
-            
+
+			<StackLayout></StackLayout>            
             
         </Grid>
 
