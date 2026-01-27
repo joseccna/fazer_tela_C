@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\tela_C#\\inicio\\OlaMaui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{479B6C78-0C3D-40C6-B6E0-52C648F3AEBE}|OlaMaui\\OlaMaui.csproj|c:\\users\\jose.fncarvalho1\\documents\\curso\\tela_c#\\inicio\\olamaui\\olamaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{479B6C78-0C3D-40C6-B6E0-52C648F3AEBE}|OlaMaui\\OlaMaui.csproj|solutionrelative:olamaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479B6C78-0C3D-40C6-B6E0-52C648F3AEBE}|OlaMaui\\OlaMaui.csproj|c:\\users\\jose.fncarvalho1\\documents\\curso\\tela_c#\\inicio\\olamaui\\olamaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479B6C78-0C3D-40C6-B6E0-52C648F3AEBE}|OlaMaui\\OlaMaui.csproj|solutionrelative:olamaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\tela_C#\\inicio\\OlaMaui\\OlaMaui\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "OlaMaui\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\tela_C#\\inicio\\OlaMaui\\OlaMaui\\MainPage.xaml.cs",
+              "RelativeToolTip": "OlaMaui\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T22:30:25.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\tela_C#\\inicio\\OlaMaui\\OlaMaui\\MainPage.xaml",
+              "RelativeDocumentMoniker": "OlaMaui\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\tela_C#\\inicio\\OlaMaui\\OlaMaui\\MainPage.xaml",
+              "RelativeToolTip": "OlaMaui\\MainPage.xaml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-26T23:08:29.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
