@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ConversorMoedas.MainPage">
+
+
+    <VerticalStackLayout Padding="16" Spacing="12" WidthRequest="350" VerticalOptions="Center" >
+        <Grid ColumnDefinitions="*,*,Auto" RowDefinitions="Auto" >
+            <Picker x:Name="FromPicker" Grid.Column="0" Title="De: ">
+                <Picker.Items>
+                    <x:String>BRL</x:String>
+                    <x:String>USD</x:String>
+                    <x:String>EUR</x:String>                    
+                </Picker.Items>
+                
+            </Picker>
+
+            <Button Grid.Column="1" Text="Inverter" Margin="20,0" HeightRequest="40" VerticalOptions="End"/>
+
+
+
+            <Picker x:Name="ToPicker" Grid.Column="2" Title="Para: ">
+                <Picker.Items>
+                    <x:String>BRL</x:String>
+                    <x:String>USD</x:String>
+                    <x:String>EUR</x:String>
+                </Picker.Items>
+
+            </Picker>
+        </Grid>
+
+        <Grid ColumnDefinitions="Auto,*,*" RowDefinitions="Auto" Margin="0,40,0,0" >
+            <Label Text="Valor: " VerticalOptions="Center" Margin="0,0,20,0"/>
+            <Entry x:Name="AcountEntry" Grid.Column="1" Placeholder="ex. 100,50" Keyboard="Numeric" WidthRequest="110" HorizontalOptions="Start"/>
+            <Button Grid.Column="2" Text="Converter" WidthRequest="100" />
+
+        </Grid>
+        <Label x:Name="ResultLabel" FontSize="18" FontAttributes="Bold" />
+
+        <Label x:Name="InfoLabel" FontSize="12" TextColor="Gray" />
+
+
+    </VerticalStackLayout>
+
+</ContentPage>
