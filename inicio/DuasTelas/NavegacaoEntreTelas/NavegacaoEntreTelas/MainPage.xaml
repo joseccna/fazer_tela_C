@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NavegacaoEntreTelas.MainPage">
+
+    <VerticalStackLayout VerticalOptions="Center">
+        <Label Text="Tela de login" FontSize="40" FontAttributes="Bold" HorizontalTextAlignment="Center" Margin="0,40"/>
+        <Grid RowDefinitions="*,*,*,*,*,*"  WidthRequest="400" >
+            <Label Grid.Row="0" Text="E-mail" />
+            <Entry Grid.Row="1" Placeholder="exemplo@exemplo.com.br" Margin="0,0,0,40" />
+            <Label Grid.Row="2" Text="Senha" />
+            <Entry Grid.Row="3" Placeholder="******" Margin="0,0,0,40" />
+            <Button Grid.Row="4" Text="Entrar" Margin="0,0,0,20" Clicked="OnEntrarClicked"/>
+            <Button Grid.Row="5" Text="Cadastrar" BackgroundColor="Purple" Clicked="OnCadastrarClicked"/>
+
+
+
+        </Grid>
+    </VerticalStackLayout>
+
+
+</ContentPage>

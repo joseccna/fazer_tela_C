@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NavegacaoEntreTelas.HomePage">
+
+	<VerticalStackLayout>
+		<Grid RowDefinitions="*,*,*" HorizontalOptions="Center" WidthRequest="400">
+            <Image Grid.Row="0" Source="dotnet_bot.png"/>
+            <Label Grid.Row="1" Text="Seja Bem-vindo(a)" FontSize="40" FontAttributes="Bold" HorizontalOptions="Center"/>
+            <Button Grid.Row="2" Text="Sair" BackgroundColor="Brown" Clicked="OnsairClicked"/>
+
+
+        </Grid>
+		
+	</VerticalStackLayout>
+	
+</ContentPage>

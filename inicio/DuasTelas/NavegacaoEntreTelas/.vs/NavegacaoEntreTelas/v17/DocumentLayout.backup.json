@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\fazer_tela_C#\\inicio\\DuasTelas\\NavegacaoEntreTelas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05CAD727-EC00-4B95-82C0-5BEC02F6F1CF}|NavegacaoEntreTelas\\NavegacaoEntreTelas.csproj|c:\\users\\jose.fncarvalho1\\documents\\curso\\fazer_tela_c#\\inicio\\duastelas\\navegacaoentretelas\\navegacaoentretelas\\cadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05CAD727-EC00-4B95-82C0-5BEC02F6F1CF}|NavegacaoEntreTelas\\NavegacaoEntreTelas.csproj|solutionrelative:navegacaoentretelas\\cadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CAD727-EC00-4B95-82C0-5BEC02F6F1CF}|NavegacaoEntreTelas\\NavegacaoEntreTelas.csproj|c:\\users\\jose.fncarvalho1\\documents\\curso\\fazer_tela_c#\\inicio\\duastelas\\navegacaoentretelas\\navegacaoentretelas\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CAD727-EC00-4B95-82C0-5BEC02F6F1CF}|NavegacaoEntreTelas\\NavegacaoEntreTelas.csproj|solutionrelative:navegacaoentretelas\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CAD727-EC00-4B95-82C0-5BEC02F6F1CF}|NavegacaoEntreTelas\\NavegacaoEntreTelas.csproj|c:\\users\\jose.fncarvalho1\\documents\\curso\\fazer_tela_c#\\inicio\\duastelas\\navegacaoentretelas\\navegacaoentretelas\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CAD727-EC00-4B95-82C0-5BEC02F6F1CF}|NavegacaoEntreTelas\\NavegacaoEntreTelas.csproj|solutionrelative:navegacaoentretelas\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CAD727-EC00-4B95-82C0-5BEC02F6F1CF}|NavegacaoEntreTelas\\NavegacaoEntreTelas.csproj|c:\\users\\jose.fncarvalho1\\documents\\curso\\fazer_tela_c#\\inicio\\duastelas\\navegacaoentretelas\\navegacaoentretelas\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05CAD727-EC00-4B95-82C0-5BEC02F6F1CF}|NavegacaoEntreTelas\\NavegacaoEntreTelas.csproj|solutionrelative:navegacaoentretelas\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CAD727-EC00-4B95-82C0-5BEC02F6F1CF}|NavegacaoEntreTelas\\NavegacaoEntreTelas.csproj|c:\\users\\jose.fncarvalho1\\documents\\curso\\fazer_tela_c#\\inicio\\duastelas\\navegacaoentretelas\\navegacaoentretelas\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{05CAD727-EC00-4B95-82C0-5BEC02F6F1CF}|NavegacaoEntreTelas\\NavegacaoEntreTelas.csproj|solutionrelative:navegacaoentretelas\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CAD727-EC00-4B95-82C0-5BEC02F6F1CF}|NavegacaoEntreTelas\\NavegacaoEntreTelas.csproj|c:\\users\\jose.fncarvalho1\\documents\\curso\\fazer_tela_c#\\inicio\\duastelas\\navegacaoentretelas\\navegacaoentretelas\\cadastro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CAD727-EC00-4B95-82C0-5BEC02F6F1CF}|NavegacaoEntreTelas\\NavegacaoEntreTelas.csproj|solutionrelative:navegacaoentretelas\\cadastro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CAD727-EC00-4B95-82C0-5BEC02F6F1CF}|NavegacaoEntreTelas\\NavegacaoEntreTelas.csproj|c:\\users\\jose.fncarvalho1\\documents\\curso\\fazer_tela_c#\\inicio\\duastelas\\navegacaoentretelas\\navegacaoentretelas\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CAD727-EC00-4B95-82C0-5BEC02F6F1CF}|NavegacaoEntreTelas\\NavegacaoEntreTelas.csproj|solutionrelative:navegacaoentretelas\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cadastro.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\fazer_tela_C#\\inicio\\DuasTelas\\NavegacaoEntreTelas\\NavegacaoEntreTelas\\Cadastro.xaml.cs",
+              "RelativeDocumentMoniker": "NavegacaoEntreTelas\\Cadastro.xaml.cs",
+              "ToolTip": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\fazer_tela_C#\\inicio\\DuasTelas\\NavegacaoEntreTelas\\NavegacaoEntreTelas\\Cadastro.xaml.cs",
+              "RelativeToolTip": "NavegacaoEntreTelas\\Cadastro.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T23:48:48.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\fazer_tela_C#\\inicio\\DuasTelas\\NavegacaoEntreTelas\\NavegacaoEntreTelas\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "NavegacaoEntreTelas\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\fazer_tela_C#\\inicio\\DuasTelas\\NavegacaoEntreTelas\\NavegacaoEntreTelas\\MainPage.xaml.cs",
+              "RelativeToolTip": "NavegacaoEntreTelas\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T23:45:48.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\fazer_tela_C#\\inicio\\DuasTelas\\NavegacaoEntreTelas\\NavegacaoEntreTelas\\HomePage.xaml",
+              "RelativeDocumentMoniker": "NavegacaoEntreTelas\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\fazer_tela_C#\\inicio\\DuasTelas\\NavegacaoEntreTelas\\NavegacaoEntreTelas\\HomePage.xaml",
+              "RelativeToolTip": "NavegacaoEntreTelas\\HomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-29T23:45:03.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cadastro.xaml",
+              "DocumentMoniker": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\fazer_tela_C#\\inicio\\DuasTelas\\NavegacaoEntreTelas\\NavegacaoEntreTelas\\Cadastro.xaml",
+              "RelativeDocumentMoniker": "NavegacaoEntreTelas\\Cadastro.xaml",
+              "ToolTip": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\fazer_tela_C#\\inicio\\DuasTelas\\NavegacaoEntreTelas\\NavegacaoEntreTelas\\Cadastro.xaml",
+              "RelativeToolTip": "NavegacaoEntreTelas\\Cadastro.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-29T23:40:18.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\fazer_tela_C#\\inicio\\DuasTelas\\NavegacaoEntreTelas\\NavegacaoEntreTelas\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "NavegacaoEntreTelas\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\fazer_tela_C#\\inicio\\DuasTelas\\NavegacaoEntreTelas\\NavegacaoEntreTelas\\AppShell.xaml.cs",
+              "RelativeToolTip": "NavegacaoEntreTelas\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T23:36:56.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\fazer_tela_C#\\inicio\\DuasTelas\\NavegacaoEntreTelas\\NavegacaoEntreTelas\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "NavegacaoEntreTelas\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\fazer_tela_C#\\inicio\\DuasTelas\\NavegacaoEntreTelas\\NavegacaoEntreTelas\\HomePage.xaml.cs",
+              "RelativeToolTip": "NavegacaoEntreTelas\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T23:29:03.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\fazer_tela_C#\\inicio\\DuasTelas\\NavegacaoEntreTelas\\NavegacaoEntreTelas\\MainPage.xaml",
+              "RelativeDocumentMoniker": "NavegacaoEntreTelas\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\jose.fncarvalho1\\Documents\\curso\\fazer_tela_C#\\inicio\\DuasTelas\\NavegacaoEntreTelas\\NavegacaoEntreTelas\\MainPage.xaml",
+              "RelativeToolTip": "NavegacaoEntreTelas\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-29T22:36:09.323Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
